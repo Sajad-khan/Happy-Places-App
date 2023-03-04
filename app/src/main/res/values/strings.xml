@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Happy Places</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="location">Location</string>
+    <string name="add_image">Add Image</string>
+    <string name="save">Save</string>
+    <string name="myDate">%d/%d/%d</string>
+    <string name="selected_image">selected image</string>
+    <string name="image">Image</string>
+    <string name="add_action">add action</string>
+    <string name="delete_icon">delete icon</string>
+    <string name="add_and_edit_activity_title">"Add Happy Place"</string>
+</resources>
